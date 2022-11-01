@@ -23,20 +23,27 @@ int[] array = new int[N];
     if (array[i] % 2 == 0)
     index++;
     Console.Write("количество четных элементов - " + index);
+    if (index > 0)
+    {
 // создаем новый массив
-int[] NewArray = new int[index];
-int index2=0;
+    int[] NewArray = new int[index];
+    int index2=0;
     for (int i = 0; i < array.Length; i++)
-{
+    {
     if (array[i] % 2 == 0)
     {
         NewArray[index2] = array[i];
         index2++;
     }
-}
-Console.WriteLine();
+    }
+    Console.WriteLine();
 // вывод нового массива
  Console.Write("Новый массив - ");
             for (int j = 0; j < index; j++)
             Console.Write(" " + NewArray[j]);
- 
+    }
+    else
+    {
+        Console.WriteLine();
+        Console.WriteLine("нет элементов");
+    }
