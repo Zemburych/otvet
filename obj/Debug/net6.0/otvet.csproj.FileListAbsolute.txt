@@ -1,0 +1,15 @@
+C:\Users\Иван\OneDrive\Desktop\otvet\bin\Debug\net6.0\otvet.exe
+C:\Users\Иван\OneDrive\Desktop\otvet\bin\Debug\net6.0\otvet.deps.json
+C:\Users\Иван\OneDrive\Desktop\otvet\bin\Debug\net6.0\otvet.runtimeconfig.json
+C:\Users\Иван\OneDrive\Desktop\otvet\bin\Debug\net6.0\otvet.dll
+C:\Users\Иван\OneDrive\Desktop\otvet\bin\Debug\net6.0\otvet.pdb
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.csproj.AssemblyReference.cache
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.AssemblyInfoInputs.cache
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.AssemblyInfo.cs
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.csproj.CoreCompileInputs.cache
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.dll
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\refint\otvet.dll
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.pdb
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\otvet.genruntimeconfig.cache
+C:\Users\Иван\OneDrive\Desktop\otvet\obj\Debug\net6.0\ref\otvet.dll
