@@ -13,15 +13,13 @@ for (int i = 0; i < array.Length; i++)
     array[i] = rand.Next(0,9);
    }
 //Вывод массива 
-            Console.WriteLine();
             Console.Write("Исходный массив - ");
             for (int i = 0; i < array.Length; i++)
-            Console.Write(array[i]);
+            Console.Write(" " + array[i]);
             Console.WriteLine();
+// вычисление количества четных элементов
+int index=0;
 for (int i = 0; i < array.Length; i++)
-{
-if array[i] % 2 = 1
-{
-  int      
-}
-}
+if (array[i] % 2 == 0)
+index++;
+Console.Write(index);
